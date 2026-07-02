@@ -1,5 +1,7 @@
 # 1337 Pool Prep 🏊🏻‍♀️👨🏿‍💻
 
+![1337 Piscine Banner](assets/1337_POOL_PREPARATION.png)
+
 - **Author:** Outaouss
 
 - **School:** 1337 Khouribga
