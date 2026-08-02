@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+
+Write a function that displays the integer passed as an argument.
+
+Your function must have the following prototype:
+
+    void    ft_putnbr(int nb);
+
+The function must display the number using only the `write` function.
+
+Your function must handle all possible values of an `int`, including the
+smallest negative integer.
+
+Examples:
+
+ft_putnbr(42);
+Output:
+42
+
+ft_putnbr(-42);
+Output:
+-42
+
+ft_putnbr(0);
+Output:
+0
+
+ft_putnbr(2147483647);
+Output:
+2147483647
+
+ft_putnbr(-2147483648);
+Output:
+-2147483648

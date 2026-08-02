@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+
+Write a program that takes a string and displays it with exactly one space
+between words.
+
+A word is defined as a sequence of non-space characters.
+
+Leading and trailing spaces must be removed, and multiple consecutive spaces
+between words must be replaced by a single space.
+
+You must display the result followed by a '\n'.
+
+If the number of arguments is not 1, the program displays '\n'.
+
+Examples:
+
+$> ./epur_str "   abc   def     ghi   " | cat -e
+abc def ghi$
+$> ./epur_str "Hello     World" | cat -e
+Hello World$
+$> ./epur_str "       42       School      " | cat -e
+42 School$
+$> ./epur_str "a" | cat -e
+a$
+$> ./epur_str "      " | cat -e
+$
+$> ./epur_str | cat -e
+$
