@@ -1,0 +1,23 @@
+Assignment name : add_digits
+Expected files : add_digits.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes a positive number as an argument.
+
+The program must add every pair of consecutive digits of the number to obtain a new number.
+
+Then, if the result has more than one digit, it must repeatedly add all of its digits until a single digit remains.
+
+The program must display the final single digit followed by a newline.
+
+If the number of arguments is different from 2, the program must display only a newline.
+
+You may assume that the argument contains only decimal digits.
+
+Examples:
+
+$> ./add_digits 1234
+10
+1
+==========================================================================================
