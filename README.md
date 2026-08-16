@@ -16,7 +16,7 @@ This repository is made for new poolers to help them prepare for the Piscine (Po
 
 It contains subjects and exercises covering:
 
-- **C00** → **C08** (daily exercises)
+- **C00** → **C09** (daily exercises)
 - **Exam00**
 - **Exam01**
 - **Exam02**
